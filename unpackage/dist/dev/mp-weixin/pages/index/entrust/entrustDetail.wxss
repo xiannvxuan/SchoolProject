@@ -1,0 +1,209 @@
+
+.content.data-v-3a306cda {
+}
+.user_wrap.data-v-3a306cda {
+	background-color: #fff;
+	margin-bottom: 10rpx;
+	background-color: #FFFFFF;
+	padding:40rpx 40rpx 50rpx 40rpx;
+}
+.user_info.data-v-3a306cda {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.user_info image.data-v-3a306cda {
+	width: 80rpx;
+	height: 80rpx;
+	border-radius: 50%;
+}
+.user_info > view.data-v-3a306cda {
+	padding-left: 20rpx;
+}
+.user_info > view > view.data-v-3a306cda:first-child {
+	font-size: 28rpx;
+	color: #333333;
+}
+.user_info > view > view.data-v-3a306cda:last-child {
+	font-size: 24rpx;
+	color: #908888;
+}
+.entrust_list_main.data-v-3a306cda {
+	padding: 0rpx 26rpx;
+	background-color: #FFFCF7;
+	margin: 40rpx 0;
+}
+.entrust_list_title.data-v-3a306cda {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	font-size: 32rpx;
+	padding: 24rpx 0;
+	border-bottom: 1px solid #E8E8E1;
+}
+.entrust_list_title text.data-v-3a306cda:first-child {
+	color: #333333;
+}
+.entrust_list_title text.data-v-3a306cda:last-child {
+	color: #ED626C;
+}
+.entrust_content.data-v-3a306cda {
+	line-height: 48rpx;
+	color: #666666;
+	font-size: 28rpx;
+	padding: 28rpx 0;
+}
+.status.data-v-3a306cda .uni-steps {
+	margin-top: 50rpx;
+}
+.status.data-v-3a306cda .uni-steps__row-text-container {
+	margin-top: 30rpx;
+}
+.btn.data-v-3a306cda {
+	width: 240rpx;
+	line-height: 80rpx;
+	background-color: #439AD0;
+	font-size: 28rpx;
+	color: #fff;
+	margin-top: 40rpx;
+}
+.review.data-v-3a306cda {
+	background-color: #FFFFFF;
+	padding: 20rpx 40rpx;
+}
+.review-tit.data-v-3a306cda {
+	font-size: 24rpx;
+	margin-bottom: 10rpx;
+}
+.review-tit uni-icons.data-v-3a306cda{
+	margin-right: 14rpx;
+}
+.review-list-wrap.data-v-3a306cda {
+	padding-bottom: 90rpx;
+}
+.review-list.data-v-3a306cda {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	margin-top: 40rpx;
+}
+.nick_img.data-v-3a306cda {
+	width: 72rpx;
+	height: 72rpx;
+	border-radius: 50%;
+}
+.nick_img image.data-v-3a306cda {
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+.review .nickname.data-v-3a306cda{
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.review .nickname image.data-v-3a306cda{
+	vertical-align: middle;
+}
+.review-list > .review_item.data-v-3a306cda {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.review-content.data-v-3a306cda {
+	padding: 12rpx 0 0 96rpx ;
+	font-size: 28rpx;
+	color: #A9A9A9;
+}
+.nickname.data-v-3a306cda {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.nickname view.data-v-3a306cda {
+	font-size: 28rpx;
+	color: #333333;
+	display: inline-block;
+}
+.nickname image.data-v-3a306cda{
+	width: 32rpx;
+	height: 32rpx;
+	margin-left: 20rpx;
+}
+.nickInfo.data-v-3a306cda {
+	font-size: 24rpx;
+	color: #9A9A9A;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.nickInfo view.data-v-3a306cda:first-child {
+	width: 160rpx;
+}
+.nickInfo .school.data-v-3a306cda {
+	width: 360rpx;
+	-webkit-box-flex:1;
+	-webkit-flex:1;
+	        flex:1;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.good.data-v-3a306cda {
+	padding-left: 8rpx;
+	font-size: 24rpx;
+}
+.good uni-icons.data-v-3a306cda {
+	margin-left: 12rpx;
+}
+.public.data-v-3a306cda {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	background-color: #FFFFFF;
+	padding: 15rpx 40rpx;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+}
+.dynamic_list_info.data-v-3a306cda {
+	padding-left: 20rpx;
+}
+.public input.data-v-3a306cda {
+	width: 450rpx;
+	height: 50rpx;
+	background: #F2F2F2;
+	border-radius: 25rpx;
+	padding: 0 20rpx;
+	font-size: 20rpx;
+}
+.public button.data-v-3a306cda {
+	width: 156rpx;
+	background-color: #439AD0;
+	color: #fff;
+	font-size: 20rpx;
+	margin-left: 40rpx;
+}
+

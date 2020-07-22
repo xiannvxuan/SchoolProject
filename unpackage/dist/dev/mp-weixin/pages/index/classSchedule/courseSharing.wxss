@@ -1,0 +1,106 @@
+
+.curriculum_wrap.data-v-9386490a {
+	background-color: #FFFFFF;
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+}
+.curriculum-head.data-v-9386490a{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding: 20rpx 40rpx;
+}
+.curriculum-head .picker-wrap.data-v-9386490a{
+	width: calc(100% - 140rpx);
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.uni-list-cell.data-v-9386490a {
+	/* width: 220rpx; */
+	border: 1px solid #C2C2C2;
+	padding: 6rpx 14rpx;
+	font-size: 28rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.curriculum-head button.data-v-9386490a {
+	width: 120rpx;
+	padding: 0;
+}
+.curriculum-hr.data-v-9386490a{
+	width: 100%;
+	height: 12rpx;
+	background: #eeeeee;
+	border-radius: 12rpx;
+}
+.curriculum-ul.data-v-9386490a{
+	padding: 0 40rpx;
+	height: calc(100% - 300rpx);
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.curriculum-ul .li.data-v-9386490a{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding-top: 40rpx;
+}
+.curriculum-ul .li .date.data-v-9386490a{
+	padding-right: 40rpx;
+}
+.curriculum-ul .li .curriculum.data-v-9386490a{
+	-webkit-box-flex:1;
+	-webkit-flex:1;
+	        flex:1;
+}
+.share.data-v-9386490a {
+	margin-top: 20rpx;
+	width: 50%;
+	font-size: 36rpx;
+	background: #439CCF !important;
+	color: #ffffff !important;
+}
+/*checkbox 选项框大小  */
+checkbox .wx-checkbox-input.data-v-9386490a {
+	width: 40rpx;
+	height: 40rpx;
+	border-radius: 40rpx;
+}
+/*checkbox选中后样式  */
+checkbox .wx-checkbox-input.wx-checkbox-input-checked.data-v-9386490a {
+    background: #439CCF;
+}
+/*checkbox选中后图标样式  */
+checkbox .wx-checkbox-input.wx-checkbox-input-checked.data-v-9386490a::before {
+	width: 28rpx;
+	height: 28rpx;
+	line-height: 28rpx;
+	text-align: center;
+	font-size: 22rpx;
+	color: #fff;
+	background: transparent;
+	transform: translate(-50%, -50%) scale(1);
+	-webkit-transform: translate(-50%, -50%) scale(1);
+}
+.tip.data-v-9386490a {
+	font-size: 20rpx;
+	color: #CBCBCB;
+	text-align: center;
+	margin-top: 12rpx;
+}
+

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "发布动态",
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}

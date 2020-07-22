@@ -1,0 +1,73 @@
+
+.schedule.data-v-6a049bfd {
+	padding:40rpx;
+	background-color: #fff;
+}
+.schedule_title.data-v-6a049bfd {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.schedule_title text.data-v-6a049bfd {
+	font-size: 36rpx;
+}
+.schedule_title button.data-v-6a049bfd {
+	margin: 0;
+	border-radius: 30rpx;
+	line-height: 60rpx;
+	color: #49A5C1;
+	border: 1px solid #49A5C1;
+	font-size: 28rpx;
+	padding: 0 20rpx;
+}
+.schedule_detail_wrap.data-v-6a049bfd {
+	margin-top: 20rpx;
+}
+.schedule_detail.data-v-6a049bfd {
+	padding:20rpx 0;
+}
+.schedule_detail text.data-v-6a049bfd{
+	font-size: 32rpx;
+	line-height: 40rpx;
+}
+.schedule_detail .iconfont.data-v-6a049bfd {
+	color: #75D0C0;
+}
+.schedule_detail text.data-v-6a049bfd:nth-child(2) {
+	padding:0 20rpx;
+}
+.classroomClassmate.data-v-6a049bfd {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding: 36rpx 40rpx;
+	margin-top: 28rpx;
+	background-color: #fff;
+}
+.classroomClassmate view.data-v-6a049bfd:first-child {
+	font-size: 32rpx;
+}
+.classroomClassmate view:first-child text.data-v-6a049bfd {
+	margin-right: 32rpx;
+	color: #8DCBDB;
+}
+.classroomClassmate view.data-v-6a049bfd:last-child {
+	font-size: 28rpx;
+	color: #ADADAD;
+}
+.classroomClassmate uni-icons.data-v-6a049bfd {
+	margin-left: 28rpx;
+}
+

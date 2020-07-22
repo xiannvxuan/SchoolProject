@@ -1,0 +1,45 @@
+
+.login_wrap.data-v-dc6717a8 {
+	height: 100%;
+	padding: 70rpx 40rpx;
+	background-color: #FFFFFF;
+}
+.login_tit.data-v-dc6717a8 {
+	font-size: 36rpx;
+}
+.login_tit view.data-v-dc6717a8 {
+	font-size: 20rpx;
+	margin-top: 20rpx;
+	color: #999999;
+}
+.uni-form-wrap.data-v-dc6717a8 {
+	margin-top: 124rpx;
+}
+.uni-form-wrap .uni-form-item.data-v-dc6717a8 {
+	border-bottom: 1px solid #E5E5E5;
+	padding: 50rpx 0 38rpx 0;
+}
+.uni-input.data-v-dc6717a8 {
+	font-size: 28rpx;
+	/* line-height: 98rpx; */
+	/* margin-bottom: 16rpx; */
+}
+.btn.data-v-dc6717a8 {
+	color: #fff;
+	font-size: 36rpx;
+	line-height: 80rpx;
+	width: 600rpx;
+	margin-top: 200rpx;
+	background-color: #439AD0;
+	border-radius: 40rpx;
+}
+.tips.data-v-dc6717a8 {
+	width: 100%;
+	position: absolute;
+	left: 0;
+	bottom: 70rpx;
+	font-size: 20rpx;
+	color: #999999;
+	text-align: center;
+}
+

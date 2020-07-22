@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "发布委托",
+  "usingComponents": {
+    "uni-combox": "/components/uni-combox/uni-combox",
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}

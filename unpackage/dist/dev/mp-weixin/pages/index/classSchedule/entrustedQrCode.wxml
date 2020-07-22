@@ -1,0 +1,1 @@
+<view class="entrustedQrCode_content data-v-5d4792b6"><view class="entrustedQrCode_img_wrap data-v-5d4792b6"><image src="{{url}}" mode="aspectFit" class="data-v-5d4792b6"></image></view><button data-event-opts="{{[['tap',[['downloadFile',['$event']]]]]}}" class="myBtn saveBtn data-v-5d4792b6" bindtap="__e">保存图片</button></view>

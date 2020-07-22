@@ -1,0 +1,95 @@
+
+.flex-item.data-v-8a914aea {
+  width: 95rpx;
+  height: 100px;
+}
+.kcb-item.data-v-8a914aea {
+  position: absolute;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border-radius: 5px;
+}
+.smalltext.data-v-8a914aea {
+  font-size: 8pt;
+  color: #fff;
+  padding-left: 2px;
+}
+.top.data-v-8a914aea {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  margin-left: 35rpx;
+  background-color: #FDFDFE;
+  /* color: #7cba23; */
+}
+.top-text.data-v-8a914aea {
+  width: 100rpx;
+  height: 100rpx;
+  font-size: 9pt;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.scroll.data-v-8a914aea {
+  /* height: 1170rpx; */
+  z-index: 101;
+  position: fixed;
+  background-color: #FFFFFF;
+}
+.left.data-v-8a914aea {
+  width: 35rpx;
+  height: 100rpx;
+  font-size: 9pt;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.btn_wrap.data-v-8a914aea {
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+	z-index: 999;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.btn_wrap button.data-v-8a914aea {
+	margin: 0;
+	width: 35%;
+	line-height: 80rpx;
+	background-color: #439AD0;
+	color: #fff;
+	font-size: 36rpx;
+}
+.btn_wrap button.data-v-8a914aea:last-child {
+	margin-left: 10%;
+}
+

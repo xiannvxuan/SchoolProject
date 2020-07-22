@@ -1,0 +1,78 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/dynamic/index",
+    "pages/test",
+    "pages/dynamic/dynamicDetail",
+    "pages/dynamic/school",
+    "pages/consignment/index",
+    "pages/consignment/consignmentDetail",
+    "pages/mine/index",
+    "pages/mine/allfunction",
+    "pages/mine/personalInformation",
+    "pages/mine/modifyInformation",
+    "pages/index/aboutBeat/index",
+    "pages/index/entrust/index",
+    "pages/index/entrust/entrustDetail",
+    "pages/index/score/scoreSheet",
+    "pages/index/qrCode/index",
+    "pages/index/classSchedule/entrustedQrCode",
+    "pages/index/classSchedule/scheduleList",
+    "pages/index/classSchedule/scheduleCard",
+    "pages/index/classSchedule/courseEditor",
+    "pages/index/classSchedule/modificWeek",
+    "pages/index/classSchedule/curriculumSync",
+    "pages/index/classSchedule/courseSharing",
+    "pages/publish/publishDynamic",
+    "pages/publish/publishProduct",
+    "pages/publish/publishEntrust",
+    "pages/mine/consignmentNews",
+    "pages/login",
+    "pages/publish/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "首页",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "custom": true,
+    "borderStyle": "black",
+    "backgroundColor": "#fff",
+    "color": "#8F8F94",
+    "selectedColor": "#f33e54",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/img/tabbar/home.png",
+        "selectedIconPath": "static/img/tabbar/home.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/dynamic/index",
+        "iconPath": "static/img/tabbar/dynamic.png",
+        "selectedIconPath": "static/img/tabbar/dynamic.png",
+        "text": "动态"
+      },
+      {
+        "pagePath": "pages/consignment/index",
+        "iconPath": "static/img/tabbar/news.png",
+        "selectedIconPath": "static/img/tabbar/news.png",
+        "text": "寄卖"
+      },
+      {
+        "pagePath": "pages/mine/index",
+        "iconPath": "static/img/tabbar/me.png",
+        "selectedIconPath": "static/img/tabbar/me.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  },
+  "sitemapLocation": "sitemap57.json"
+}
